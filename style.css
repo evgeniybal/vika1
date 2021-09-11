@@ -1,0 +1,16 @@
+.beautiful {
+    color: purple !important;
+    background-color: black;
+    padding: 2rem;
+    text-align: center;
+    font-size: 5rem;
+    border: orchid 2px double;
+}
+
+.modern {
+    color: lime;
+    background-color: black;
+    padding: 2rem;
+    text-align: center;
+    font-size: 5rem;
+}
